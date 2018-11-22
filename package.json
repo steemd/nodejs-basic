@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "Basic Node JS App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steemd/nodejs-basic.git"
+  },
+  "author": "steemd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steemd/nodejs-basic/issues"
+  },
+  "homepage": "https://github.com/steemd/nodejs-basic#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "sqlite3": "^4.0.4"
+  }
+}
